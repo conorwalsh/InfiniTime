@@ -17,6 +17,10 @@ Fast open-source firmware for the [PineTime smartwatch](https://www.pine64.org/p
  - [Siglo](https://github.com/alexr4535/siglo) (Linux)
  - [InfiniLink](https://github.com/xan-m/InfiniLink) **[Experimental]** (iOS)
 
+### Linux WatchFace
+
+![Linux Watch Face](linuxwatchface.jpg)
+
 ## Development
 
  - [Rough structure of the code](doc/code/Intro.md)
